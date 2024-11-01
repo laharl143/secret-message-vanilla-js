@@ -8,6 +8,7 @@
 
 /**
  * Learned the command "npx now" to easily deploy
+ * domina: https://secret-message-vanilla-js.vercel.app
  */
 
 const { hash } = window.location;
